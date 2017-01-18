@@ -13,7 +13,6 @@ public class UserInput
         //System.out.println("whats your name");
         //String name = sc.next();
         //System.out.println("My name is " + name + " and my favorite color is " + color);
-        System.out.println(question);
         if(chocolate.equals("yes")){
           System.out.println(newString);  
         }
